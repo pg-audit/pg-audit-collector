@@ -54,7 +54,11 @@ rm /tmp/pgpw
 
 **3. Get the result:**
 
-A file like `audit_data_20260712_153000.json` appears in the current directory.
+A file like `audit_data_20260712_153000.json` appears in the current directory. 
+
+**4. Get your report:**
+
+Upload the JSON file at [pg-audit.github.io](https://pg-audit.github.io) — you'll receive the 3 most critical problems for free.
 
 ## All Options
 
