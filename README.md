@@ -4,6 +4,10 @@
 
 Reads system catalogs only. No user data. No modifications. Outputs a JSON file ready for analysis.
 
+**Get a free assessment:** [pg-audit.github.io](https://pg-audit.github.io) — upload the JSON, receive the 3 most critical problems within 24 hours.
+
+Full report with ready-to-execute SQL fixes and priority plan: **30,000 ₽**.
+
 ## Why?
 
 Before tuning or auditing a PostgreSQL database, you need diagnostic data. This script collects it safely and quickly:
@@ -117,3 +121,7 @@ The script produces a timestamped JSON file:
 ## License
 
 MIT
+
+---
+
+**PG Audit Service** — [pg-audit.github.io](https://pg-audit.github.io) · [pg.audit.service@proton.me](mailto:pg.audit.service@proton.me)
