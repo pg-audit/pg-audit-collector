@@ -115,6 +115,8 @@ The script produces a timestamped JSON file:
 }
 ```
 
+> Example output with synthetic values. The collector captures database metadata only — no user data, no query contents, no table rows.
+
 ## Requirements
 
 - Python 3.10+
