@@ -48,7 +48,7 @@ If your database requires a password, use `--password-file` (avoids exposing the
 
 ```bash
 echo "your_password" > /tmp/pgpw
-python3 pg_collector.py --host 192.168.1.1 --dbname production --user dba --password-file /tmp/pgpw
+python3 pg_collector.py --host your-db-host --dbname production --user dba --password-file /tmp/pgpw
 rm /tmp/pgpw
 ```
 
